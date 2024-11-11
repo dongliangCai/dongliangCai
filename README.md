@@ -11,6 +11,7 @@
 * 基于区块链和可信执行环境的属性签名身份认证方案[J]. 计算机研究与发展, 2023, 60(11): 2555-2566. DOI: 10.7544/issn1000-1239.202330268
 * Simulation Extractable SNARKs based on Target Linearly Collision-Resistant Oracle，SCIENCE CHINA Technological Sciences，2024.DOI:10.1007/s11431-023-2580-5
 * Epistle: Elastic Succinct Arguments for Plonk Constraint System.Cryptology ePrint Archive, Paper 2024/872, 2024. https://eprint.iacr.org/2024/872
+* Attribute-Based Encryption With Payable Outsourced Decryption Using Blockchain and Responsive Zero Knowledge Proof. arXiv preprint arXiv:2411.03844. https://doi.org/10.48550/arXiv.2411.03844
 
   ![dongliangCai's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongliangCai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongliangCai)
 
